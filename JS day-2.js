@@ -1,4 +1,4 @@
-///ARRAY METHOD
+//ARRAY METHOD
 
 // 1.MAP METHOD
 let numbers=[1,2,3];

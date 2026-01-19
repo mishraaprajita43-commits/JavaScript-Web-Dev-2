@@ -51,10 +51,10 @@ console.log(result);
 
 
 //q.3 check if array is palindrome or not.
-let arr = [1, 2, 3, 2, 1];
+/*let arr = [1, 2, 3, 2, 1];
 
 let reversed = [...arr].reverse();
 
 let isPalindrome = arr.join() === reversed.join();
 
-console.log(isPalindrome); // true
+console.log(isPalindrome); */ // true 
