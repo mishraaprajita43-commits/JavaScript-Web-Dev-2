@@ -13,17 +13,17 @@
 //q.3 check if array is palindrome or not using push pull and shift unshift
 function palindrome(){
 let arr = [1,2,3,2,1]
-let original = [];                             //1,2,3,2,1
-let reverse=[]                                 //1,2,3,2,1
+let original = []; //1,2,3,2,1
+let reverse=[]    //1,2,3,2,1
 
-               //Copy all the elements of given array to an original array
+//Copy all the elements of given array to an original array
 
 for(let i=0;i<arr.length;i++){
     original.push(arr[i]);
     // console.log(original);
 }
 
-               //Reverse the given array
+//Reverse the given array
                
 while(arr.length>0){
     reverse.push(arr.pop())
