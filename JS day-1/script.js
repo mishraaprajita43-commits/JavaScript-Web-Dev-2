@@ -35,7 +35,7 @@ const sample=(a,b)=>{
 console.log(sample(5,10))
 
 //3. callback function 
-//in callback fn if we pass a fn as an argument inside another fn
+//in callback fnction if we pass a fn as an argument inside another fn
 //callback=demo()
 function sample(callback){
     console.log("sample");
