@@ -1,10 +1,9 @@
-//Task - 1
+//Task-1
 const profile = document.getElementById("profile");
 profile.style.color="pink";
 profile.style.backgroundColor="black";
 profile.style.padding="20px";
 profile.style.textAlign="center"
-
 //Task-2
 const highlight = document.getElementsByClassName("important");
 console.log(highlight);
