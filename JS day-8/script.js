@@ -11,3 +11,4 @@ for (let i=0; i<highlight.length; i++){
     highlight[i].style.color="Blue";
     highlight[i].style.fontSize="30px";
 }
+
