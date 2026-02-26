@@ -1,10 +1,10 @@
-// console.log("starting script.js");
+console.log("starting script.js");
 
-// function myWork(){
-//     console.log("myWork function called");
-// }
-// myWork();
-// console.log("ending script.js");
+function myWork(){
+    console.log("myWork function called");
+}
+myWork();
+console.log("ending script.js");
 
 // setTimeout(()=>{
 //     console.log("hello world")
