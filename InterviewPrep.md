@@ -17,7 +17,7 @@
     -anonymous function
     -self invoking function (IIFE)
 8.difference between spread operator and rest parameter    
-9. what is nullish coalescing operator
+9 . what is nullish coalescing operator
 10.difference between setInterval and setTimeout.
 11.difference between forEach and map method.
 12.difference between textContent, innerHtml and innertext.
