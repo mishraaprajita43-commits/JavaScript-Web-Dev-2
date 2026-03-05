@@ -21,8 +21,7 @@
 10.difference between setInterval and setTimeout.
 11.difference between forEach and map method.
 12.difference between textContent, innerHtml and innertext.
-13.difference between setTimeout and setInterval.
-13.difference between setTimeout and setInterval.
+13.difference between setTimeout and setInterval.1
 14.what is callback hell and pyramid dom?
 15.why we need asynchronous type of coding.
 *querySelector?
